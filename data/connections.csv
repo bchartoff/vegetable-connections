@@ -1,0 +1,106 @@
+Bitter melon,1,1,Sweet Potato,1,Squash,1,Potato,1,Onion,1,Carrot,0,0
+Courgette,1,1,Tomato,1,Swiss chard,1,Squash,1,Sorrel,1,Kale,1,Corn
+Fiddlehead,1,1,Spinach,1,Soybean,0,0,0,0,0,0,0,0
+Orache,1,1,Spinach,1,Pea,1,Miner's lettuce,1,Lettuce,1,Beet,1,Amaranth
+Wild leek,1,1,Onion,1,Leek,0,0,0,0,0,0,0,0
+Azuki bean,2,1,Celery,1,Carrot,1,Broccoli,1,Bell pepper,0,0,0,0
+Borage,2,1,Spinach,1,Potato,1,Leek,1,Dandelion,0,0,0,0
+Nopal,2,1,Tomato,1,Radish,1,Beet,0,0,0,0,0,0
+Winter melon,2,1,Broccoli Rabe,1,Broccoli,0,0,0,0,0,0,0,0
+Aubergine,3,1,Tomato,1,Potato,1,Onion,1,Lentil,1,Leek,1,Eggplant
+Water chestnut,3,1,Scallion,1,Onion,0,0,0,0,0,0,0,0
+Taro,4,2,Potato,1,Yam,1,Sweet Potato,1,Spinach,1,Pumpkin,1,Onion
+Chrysanthemum,5,4,Onion,1,Watercress,1,Spinach,1,Napa cabbage,1,Cabbage,0,0
+Pearl onion,5,5,Onion,1,Turnip,1,Celery,0,0,0,0,0,0
+Wakame,5,2,Scallion,1,Zucchini,1,Spinach,0,0,0,0,0,0
+Purslane,6,4,Watercress,4,Cucumber,4,Arugula,3,Shallot,3,Onion,2,Lettuce
+Amaranth,8,2,Lettuce,1,Zucchini,1,Swiss chard,1,Spinach,1,Potato,1,Pea
+Tatsoi,10,5,Shallot,4,Spinach,3,Arugula,2,Watercress,2,Pea,2,Lettuce
+Fava bean,11,3,Potato,2,Onion,2,Asparagus,1,Pea,1,Garbanzo,1,Endive
+Mizuna,11,8,Shallot,6,Tatsoi,5,Watercress,4,Tomato,4,Onion,3,Spinach
+Brussels sprout,14,3,Shallot,1,Yam,1,Sweet Potato,1,Spinach,1,Radicchio,1,Potato
+Kombu,17,3,Spinach,3,Napa cabbage,3,Carrot,3,Cabbage,2,Onion,1,Yam
+Dandelion,23,6,Mustard greens,4,Potato,4,Onion,4,Arugula,3,Swiss chard,3,Spinach
+Jerusalem artichoke,29,29,Artichoke,9,Onion,8,Potato,6,Celery,2,Leek,2,Celeriac
+Chicory,30,16,Endive,6,Radicchio,4,Shallot,4,Arugula,3,Tomato,3,Lettuce
+Soybean,39,8,Onion,4,Spinach,3,Shallot,3,Lettuce,3,Green bean,3,Carrot
+Daikon,46,37,Radish,14,Onion,14,Carrot,12,Cucumber,7,Cabbage,4,Scallion
+Okra,63,35,Onion,34,Tomato,17,Corn,12,Celery,11,Bell pepper,10,Potato
+Rutabaga,66,31,Potato,28,Carrot,25,Parsnip,24,Onion,18,Turnip,11,Celery
+Lima Bean,70,29,Onion,24,Corn,19,Tomato,17,Bell pepper,9,Carrot,8,Celery
+Mustard greens,75,18,Onion,16,Kale,14,Spinach,12,Swiss chard,9,Shallot,8,Potato
+Snap pea,98,18,Onion,13,Carrot,12,Potato,12,Asparagus,10,Tomato,8,Radish
+Tomatillo,120,73,Onion,33,Corn,26,Avocado,17,Tomato,10,Bell pepper,9,Pumpkin
+Swiss chard,136,51,Onion,21,Tomato,13,Spinach,12,Celery,12,Mustard greens,10,Potato
+Kale,157,62,Onion,27,Potato,16,Mustard greens,16,Tomato,15,Shallot,15,Celery
+Cauliflower,179,42,Onion,26,Broccoli,23,Carrot,20,Tomato,19,Potato,19,Celery
+Parsnip,195,73,Onion,71,Potato,71,Carrot,47,Celery,33,Turnip,25,Rutabaga
+Endive,234,37,Radicchio,35,Watercress,34,Lettuce,30,Shallot,29,Onion,28,Arugula
+Artichoke,267,75,Onion,53,Tomato,27,Potato,27,Bell pepper,20,Celery,12,Pea
+Beet,302,98,Onion,33,Carrot,32,Potato,27,Shallot,24,Celery,19,Lettuce
+Green bean,312,69,Onion,55,Tomato,41,Potato,30,Shallot,27,Carrot,24,Bell pepper
+Asparagus,344,70,Onion,34,Pea,29,Shallot,28,Tomato,22,Leek,21,Potato
+Pumpkin,357,59,Onion,53,Squash,27,Corn,17,Tomato,14,Potato,14,Bell pepper
+Corn,389,248,Tomato,179,Bell pepper,110,Potato,81,Celery,74,Avocado,66,Zucchini
+Scallion,444,181,Onion,66,Bell pepper,64,Tomato,44,Celery,42,Potato,32,Cucumber
+Pea,483,151,Onion,98,Snap pea,64,Carrot,61,Tomato,59,Potato,37,Bell pepper
+Squash,522,171,Onion,120,Zucchini,78,Tomato,71,Bell pepper,53,Pumpkin,49,Potato
+Zucchini,622,225,Onion,184,Tomato,137,Bell pepper,120,Squash,69,Eggplant,66,Corn
+Lettuce,679,199,Onion,141,Tomato,72,Cucumber,66,Bell pepper,61,Shallot,51,Avocado
+Shallot,1052,144,Onion,115,Tomato,80,Potato,63,Celery,61,Lettuce,60,Carrot
+Celery,1478,797,Onion,419,Carrot,315,Tomato,220,Potato,159,Bell pepper,105,Leek
+Potato,2160,665,Onion,354,Sweet Potato,334,Yam,220,Celery,197,Tomato,177,Carrot
+Onion,5000,1441,Tomato,797,Celery,777,Bell pepper,665,Potato,609,Carrot,389,Corn
+Tomato,3377,1441,Onion,443,Bell pepper,315,Celery,248,Corn,197,Potato,197,Carrot
+Bell pepper,1681,777,Onion,443,Tomato,179,Corn,159,Celery,137,Zucchini,132,Potato
+Carrot,1275,609,Onion,419,Celery,197,Tomato,177,Potato,118,Cabbage,116,Bell pepper
+Spinach,690,211,Onion,86,Tomato,58,Potato,55,Shallot,54,Bell pepper,45,Carrot
+Cucumber,632,185,Onion,178,Tomato,108,Bell pepper,72,Lettuce,52,Radish,48,Carrot
+Arugula,548,137,Tomato,119,Onion,39,Shallot,38,Bell pepper,29,Lettuce,28,Watercress
+Cabbage,517,189,Onion,118,Carrot,62,Celery,55,Bell pepper,48,Potato,43,Tomato
+Leek,447,137,Onion,119,Potato,105,Celery,81,Carrot,55,Tomato,25,Shallot
+Avocado,410,168,Onion,108,Tomato,74,Corn,51,Lettuce,45,Cucumber,32,Bell pepper
+Eggplant,362,159,Tomato,116,Onion,101,Bell pepper,69,Zucchini,25,Squash,20,Potato
+Sweet Potato,354,354,Potato,333,Yam,93,Onion,34,Carrot,32,Bell pepper,24,Celery
+Yam,338,334,Potato,333,Sweet Potato,79,Onion,26,Carrot,26,Bell pepper,17,Celery
+Watercress,303,67,Onion,36,Lettuce,35,Endive,32,Tomato,28,Arugula,26,Shallot
+Broccoli,292,67,Onion,66,Broccoli Rabe,35,Bell pepper,28,Carrot,27,Tomato,26,Cauliflower
+Radish,244,54,Onion,52,Cucumber,34,Lettuce,28,Carrot,21,Celery,19,Watercress
+Chickpea,213,91,Garbanzo,83,Onion,62,Tomato,26,Bell pepper,22,Carrot,18,Cucumber
+Radicchio,190,46,Onion,37,Endive,24,Lettuce,23,Arugula,20,Shallot,12,Celery
+Lentil,171,95,Onion,43,Tomato,42,Carrot,41,Celery,18,Spinach,13,Bell pepper
+Turnip,143,62,Carrot,50,Potato,49,Onion,33,Parsnip,29,Celery,18,Rutabaga
+Garbanzo,130,91,Chickpea,48,Onion,34,Tomato,19,Bell pepper,11,Carrot,10,Potato
+Napa cabbage,105,26,Carrot,23,Onion,16,Bell pepper,9,Cucumber,8,Pea,8,Pea
+Bok choy,79,15,Onion,8,Cabbage,6,Napa cabbage,6,Bell pepper,5,Shallot,4,Pea
+Caper,71,18,Tomato,14,Onion,8,Bell pepper,7,Shallot,5,Potato,5,Lettuce
+Broccoli Rabe,66,66,Broccoli,10,Onion,7,Tomato,5,Squash,5,Spinach,4,Kale
+Celeriac,64,61,Celery,26,Potato,18,Onion,8,Parsnip,5,Carrot,4,Turnip
+Collard greens,48,17,Onion,6,Potato,6,Kale,6,Celery,5,Tomato,5,Bell pepper
+Summer squash,42,30,Zucchini,15,Onion,9,Bell pepper,8,Tomato,5,Shallot,4,Potato
+Mung bean,35,10,Onion,10,Carrot,9,Cucumber,6,Cabbage,5,Bell pepper,4,Pea
+Jicama,30,20,Cucumber,20,Avocado,16,Carrot,15,Bell pepper,14,Lettuce,13,Cabbage
+Chayote,24,10,Squash,10,Onion,5,Zucchini,3,Bell pepper,2,Yam,2,Tomatillo
+Nori,20,9,Cucumber,5,Carrot,5,Avocado,4,Laver,3,Onion,2,Radish
+Sorrel,16,5,Arugula,4,Spinach,4,Onion,3,Tomato,3,Shallot,2,Zucchini
+Kohlrabi,14,5,Celery,2,Turnip,2,Squash,2,Spinach,2,Rutabaga,2,Parsnip
+Lamb's lettuce,11,5,Shallot,3,Endive,2,Radish,1,Zucchini,1,Onion,1,Carrot
+Snow pea,10,3,Bell pepper,2,Carrot,1,Watercress,1,Snap pea,1,Napa cabbage,1,Green bean
+Spring Onion,9,9,Onion,3,Potato,2,Scallion,1,Tomato,1,Squash,1,Pea
+Cress,7,4,Watercress,2,Tomato,2,Avocado,2,Arugula,1,Spinach,1,Scallion
+Cassava,5,1,Turnip,1,Tomato,1,Onion,1,Okra,1,Eggplant,1,Carrot
+Guar,5,2,Potato,1,Bell pepper,1,Corn,0,0,0,0,0,0
+Squash blossoms,5,5,Squash,4,Zucchini,3,Tomato,1,Spinach,1,Shallot,1,Pumpkin
+Laver,4,3,Cucumber,2,Carrot,2,Avocado,1,Scallion,1,Radish,1,Potato
+Ti,4,4,Onion,1,Corn,1,Scallion,1,Bell pepper,0,0,0,0
+Bamboo shoot,3,1,Cabbage,1,Asparagus,0,0,0,0,0,0,0,0
+Water spinach,3,3,Spinach,1,Shallot,1,Bok choy,0,0,0,0,0,0
+Black-eyed pea,2,2,Corn,0,0,0,0,0,0,0,0,0,0
+Lotus root,2,1,Shallot,1,Radish,1,Green bean,1,Daikon,1,Celery,1,Asparagus
+Salsify,2,1,Onion,1,Burdock,1,Broccoli,1,Mustard greens,0,0,0,0
+Arame,1,1,Kombu,1,Dulse,1,Cabbage,1,Bok choy,0,0,0,0
+Burdock,1,1,Salsify,0,0,0,0,0,0,0,0,0,0
+Dulse,1,1,Kombu,1,Dulse,1,Cabbage,1,Bok choy,1,Arame,0,0
+Miner's lettuce,1,1,Spinach,1,Pea,1,Orache,1,Lettuce,1,Beet,1,Amaranth
+Pigeon pea,1,1,Lentil,0,0,0,0,0,0,0,0,0,0
+Yarrow,1,1,Tomato,0,0,0,0,0,0,0,0,0,0
