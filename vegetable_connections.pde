@@ -33,8 +33,7 @@ for (int i=0; i < numVeg; i++) {
 }
   size(w,h);
   noStroke();
-  PFont mono = loadFont("Georgia-11.vlw");
-  textFont(mono);
+
 
   //generate list of veg names
   int i = 0;
